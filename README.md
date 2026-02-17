@@ -4,4 +4,3 @@ An exhaustive lab session of applying traditional Machine Learning models on Hou
 
 Machine Learning models include Linear Regression (with regularizations), Support Vector Machine, KNN, Decision Tree, Random Forest, Adative Boost, Gradient Boost, XGBoost and Light GBM.
 
-Big thanks to Coder School for the instruction and [Dong](https://github.com/kristrg) for the suggested framework.
